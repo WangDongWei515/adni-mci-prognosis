@@ -1,0 +1,182 @@
+[
+  {
+    "path": "src/data_engineering/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/data_engineering/diagnosis_labels.py",
+    "sha256": "65c184c451783178f63c3def8aa93b53955bc33d186fc82f85f5654674d1bfb4",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/data_engineering/mri_volumes.py",
+    "sha256": "8c6ccf6bce608abc558a6935bd0e5f3099a11386fd67dbb189279e0f20aa95b1",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/dataset/__init__.py",
+    "sha256": "41164b518b276cba01623b83f95a3acaa4fb501628e0d0f4510310bcd2920a05",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/dataset/build.py",
+    "sha256": "a2be87ebdabf7476d32619f30fa6529917524619186673161b7051198bb87ef4",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/dataset/cohort_v2.py",
+    "sha256": "16637e04d79898026b7a69bf713ef8b2a5f88338f41b6090047bba911299d580",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/dataset/smallbatch.py",
+    "sha256": "64ae3fe510560786278a40a7c3f34394f0ae8a69704d5d9e3d966042ec9da005",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/dataset/split.py",
+    "sha256": "79a7e43ab613628c9876bc369ecf494f83f229fa281d04464f6b802d3fbbe027",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/evaluation/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/evaluation/metrics.py",
+    "sha256": "b187f863cb1647255af35935493913c397895ce2c18f9e39a6c0e418a4d40713",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/evaluation/report.py",
+    "sha256": "48532beae5e21f61133bd15e8d4e5529aeafa98298ba8d4cd0770e3787a14ea8",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/evaluation/report_v2.py",
+    "sha256": "82cf0bd0cc5e2e298530aaf91e6d6b2011b5e3959693742b6854ef845b924508",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/cv.py",
+    "sha256": "984a1b34889fd0728c8e12ee21299fc2220b7a0d69981eb64ed5ea01ad1e7f04",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/data.py",
+    "sha256": "af9c946a019560a7675f5a91fdca06498d6f3242269d2de55ce160468712d0ea",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/gbm.py",
+    "sha256": "45160fc0b7ef5c7d8dd3deecc1d05d75e0458f3004e3e1a541e587ce23b5ab47",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/models.py",
+    "sha256": "521d913ccdad28213bc70848c0ca84ddd10973177e109466deb498ec6852db4f",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/pipeline.py",
+    "sha256": "abe030b254b3cc6ba3bd8873ea11a3bb3e5ec64835c81218543585a54b7d199d",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "src/modeling/train.py",
+    "sha256": "9bbe45da23d2d7601310cde65ebbeecfad050f028f777ca886b0dc1722f636a4",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/amyloid_subgroups.py",
+    "sha256": "5b4899b1d9e1022fc150ae8bf34b7676d3f3c8e2893af9bbf6c3d08c5c0d34df",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/build_dataset_v2.py",
+    "sha256": "2e6026db0b0b0380cf1fe5b54f60984113634a5f4298ae1a8ea9042ca2461874",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/make_fig1_overview.py",
+    "sha256": "751e0a149ddf01dbf04f51076916349880bf267584c81060b4c7960b7e50dd81",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/make_fig1_v3.py",
+    "sha256": "2c88fe390aefdfcbcc05eec65fe75425d7c53cbe7bf8df52360efff0f5cf8660",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/make_figures.py",
+    "sha256": "535720b40d79ce54cbcf18db9756a581c8adc95f3280d111146b363ccc882be3",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/make_figures_v2.py",
+    "sha256": "e17bf7a5e058750249bd5cb7149936c85ae43bf8c9f59c2bd9c750f19af3995f",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/make_report.py",
+    "sha256": "f822f9416358a53a01686b31ac73e5fa201984f4f5df749538e239b0ae556581",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/make_report_v2.py",
+    "sha256": "a89dd6040634153cdeadba3531613095c51aa5ba5095dc2334b3134feba2ff76",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/numbers_digest.py",
+    "sha256": "54c83a77915644b2785fbf40dfc30ce3f7e99c1cfc4eaea0d08ecec61dcb1a5e",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/rerun_all_v2.py",
+    "sha256": "9f3b1a2566458e791199925d626c04d7e3993f69d2d2c58b3335c4985b0a4ad6",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/rerun_remaining_nn.py",
+    "sha256": "a3893e502ff2f539accc0b7602ce885c3f6ca05c5eae022a39ff459fd6f991c4",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/revision_analyses.py",
+    "sha256": "d76b4478851bd8d2b1ffe7f512283414843137a1ba3f159a37d05ec99e9e6d6d",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/run_gbm.py",
+    "sha256": "167452fa636e8a4af58df0a012dd64cb4a2b47ac08033b84628acf992d86f187",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/run_gbm_v2.py",
+    "sha256": "3adfb2842eacdc44f14823f9578e250b5bbaf76c9cb20063d2af9069c878d715",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/run_neural.py",
+    "sha256": "ccccea8e114beeb87f575069251ed16d518da3bff22fe38f8f0281291bc36059",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/run_neural_v2.py",
+    "sha256": "59f52f4f6255d401cea12837c146337ab4b0710d4564e13041e6c638649f698d",
+    "origin": "active analysis checkout"
+  },
+  {
+    "path": "scripts/build_adni_longitudinal.py",
+    "sha256": "a0cc6f71706cbffef181526128b7cab97e23345fad7f1d061401a2a317b73bfc",
+    "origin": "original longitudinal data preparation checkout"
+  }
+]
